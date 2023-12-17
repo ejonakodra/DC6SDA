@@ -1,0 +1,123 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "toc_visible": true,
+      "authorship_tag": "ABX9TyOF8xtUmEXF1utRBqn8DJY3",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ejonakodra/DC6SDA/blob/main/sampleipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "RD6uhE9C31sn"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "w7TE0XBY33X9"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "e"
+      ],
+      "metadata": {
+        "id": "1_QoxZ3O331H"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "from google.colab import drive\n",
+        "drive.mount('/content/drive')"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "4JqU8W124fXb",
+        "outputId": "9af2ab3e-db19-4d9f-d133-9f60e7478c6a"
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Mounted at /content/drive\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# New section"
+      ],
+      "metadata": {
+        "id": "Js9ndWgo4lmU"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# New section"
+      ],
+      "metadata": {
+        "id": "JvSfKKcY4iYa"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "!ls"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "aHgIDIPl4uaE",
+        "outputId": "1d282cce-4238-46a3-ef94-b61bf6a88548"
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "drive  sample_data\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
